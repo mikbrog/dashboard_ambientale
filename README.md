@@ -3,6 +3,7 @@
 ## Descrizione
 
 Sito per una dashboard ambientale che recupera dati da un file locale.
+Può essere visualizzato anche online [qui](https://mikbrog.github.io/dashboard_ambientale/)
 
 ## Funzionalità principali
 
